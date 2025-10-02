@@ -1,1 +1,1 @@
-# Equalize-the-Array-algo
+# Equalize-the-Array-algo This code counts the occurrences of each number in the array and finds the number that occurs most frequently. The minimum number of deletions required is the total array size minus this maximum frequency.
